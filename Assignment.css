@@ -1,0 +1,451 @@
+nav{
+    background-color: black;
+    height: 30px;
+    position: relative;
+    top: -16px;
+    background-repeat: no repeat;
+}
+.leftblock{
+    text-transform:  none;
+    list-style: none;
+    display: flex;
+    position: relative;
+    top: 8px;
+}
+.leftblock>li>a{
+    text-decoration:none;
+    color: white;
+    padding-left: 3px;
+}
+.rightblock{
+    list-style: none;
+    display: flex;
+    position: relative;
+    top: -25px;
+    left: 1050px;
+}
+.rightblock>li>a{
+    color:white;
+    text-decoration:none;
+    padding-left: 3px;
+}
+.title{
+    color:white;
+    height: 70px;
+    text-align: center;
+    font-size: 50px;
+}
+.menu{
+    background-color: crimson;
+    top: -34px;
+}
+.menu>ul>li{
+    list-style: none;
+    display: inline-block;
+    color:white;
+    position: relative;
+    left: 80px;
+}
+.menu>ul>li>a{
+    text-decoration: none;
+   color:white;
+   font-weight: bold;
+   
+}
+.news{
+    display: flex;
+    background-color: white;
+    list-style: none;
+    font-size: 13px;
+    position: relative;
+    left: 120px;
+    top: -30px;
+}
+.news>li>a{
+    text-decoration: none;
+}
+footer{
+    background-color: black;
+    height: 700px;
+    color:white;
+    font-size: 15px;
+}
+.block1A>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: -50px;
+}
+.block1A>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block1B{
+    position: relative;
+    top: -151px;
+    left: 160px;
+}
+.block1B>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: -50px;
+}
+.block1B>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block1C{
+    position: relative;
+    top: -300px;
+    left: 330px;
+}
+.block1C>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: -50px;
+}
+.block1C>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+
+.block2A>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: -50px;
+    top: -300px;
+}
+.block2A>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block2B{
+    position: relative;
+    top: -151px;
+    left: 160px;
+}
+.block2B>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: -50px;
+    top: -250px;
+}
+.block2B>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block2C{
+    position: relative;
+    top: -300px;
+    left: 330px;
+}
+.block2C>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: -50px;
+    top: -200px;
+}
+.block2C>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block3A>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: -50px;
+    top: -500px;
+}
+.block3A>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block3B{
+    position: relative;
+    top: -151px;
+    left: 160px;
+}
+.block3B>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: -10px;
+    top: -450px;
+}
+.block3B>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block3C{
+    position: relative;
+    top: -300px;
+    left: 330px;
+}
+.block3C>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 10px;
+    top: -400px;
+}
+.block3C>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block4A>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 600px;
+    top: -1210px;
+}
+.block4A>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block4B{
+    position: relative;
+    top: -151px;
+    left: 160px;
+}
+.block4B>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 600px;
+    top: -1160px;
+}
+.block4B>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block4C{
+    position: relative;
+    top: -300px;
+    left: 330px;
+}
+.block4C>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 600px;
+    top: -1090px;
+}
+.block4C>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block5A>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 600px;
+    top: -1375px;
+}
+.block5A>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block5B{
+    position: relative;
+    top: -151px;
+    left: 160px;
+}
+.block5B>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 600px;
+    top: -1275px;
+}
+.block5B>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block5C{
+    position: relative;
+    top: -300px;
+    left: 330px;
+}
+.block5C>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 600px;
+    top: -1175px;
+}
+.block5C>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block6A>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 600px;
+    top: -1475px;
+}
+.block6A>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block6B{
+    position: relative;
+    top: -151px;
+    left: 160px;
+}
+.block6B>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 620px;
+    top: -1375px;
+}
+.block6B>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block6C{
+    position: relative;
+    top: -300px;
+    left: 330px;
+}
+.block6C>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 690px;
+    top: -1275px;
+}
+.block6C>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block7A>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 600px;
+    top: -1575px;
+}
+.block7A>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block7B{
+    position: relative;
+    top: -151px;
+    left: 160px;
+}
+.block7B>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 620px;
+    top: -1535px;
+}
+.block7B>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.block7C{
+    position: relative;
+    top: -300px;
+    left: 330px;
+}
+.block7C>li{
+    list-style: none;
+    color:white;
+    position: relative;
+    left: 80px;
+    position: relative;
+    left: 690px;
+    top: -1485px;
+}
+.block7C>li>a{
+    text-decoration: none;
+    color:white;
+    font-weight: lighter;
+}
+.latest{
+    position: relative;
+    right: -60px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.blockmain{
+    width: 100%;
+    display: flex;
+}
+.leftblocks{
+    width:70%;
+    list-style:none;
+}
+.rightblocks{
+    width:30%
+}
